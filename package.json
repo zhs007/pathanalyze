@@ -27,7 +27,7 @@
   "directories": {
     "bin": "./bin"
   },
-  "main": "./chgcharset.js",
+  "main": "./bin/pathanalyze.js",
   "bin": {
     "pathanalyze": "./bin/pathanalyze.js"
   },
